@@ -1,0 +1,14 @@
+Angular Fragen
+- Two way binding -> ngxModel (ist immutable, z.B. productList im TutorialProjekt), dort subscriben sich alle, um über Updates informiert zu werden
+- Facade (optional) -> Facade basteln, welche Methoden bereit stellt, das ngxModel zu ändern. Nur die facade darf das ngxModel ändern / updaten
+- Semikolon? -> Ne, aber ESLint für Fehler-schmeißen
+- ' oder " -> html=" js='
+- ProductService -> Speicherung in Model, service nur als Repository nutzen
+
+__ 
+- comp. Name Camelcase prodEntry -> prod-entry. oder lieber so: prodentry
+	Directive selectors should be camelCase instead of snake-case. Snake-case is only used for element selectors, because the - is required for custom elements. Angular doesn't depend on components being custom elements, but it's considered good practice to comply with this rule anyway. Angular works fine with camelCase attributes and uses them with all directives (*ngFor, ngModel, ...), and is also suggested by the Angular style guide.
+
+Anschauen
+- ngModel
+- view -> <div *ngIf(model | async as XX)> und <p>{{XX.value}}</p>
