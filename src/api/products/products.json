@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hamburg_Jungfernstieg_%281890-1900%29.jpg",
+      "name": "Hamburg",
+      "rating": 2.5
+    },
+    {
+      "id": 2,
+      "image": "http://www.ironman.com/~/media/1a14a2ba0b86408c9bb55a5cd1feed55/ironman%20hamburg%20slider%201.jpg",
+      "name": "Wakeboard",
+      "rating": 4.9
+    }
+  ]
