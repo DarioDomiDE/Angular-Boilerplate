@@ -11,7 +11,7 @@
   * [x] Subcomponents
   * [x] Services
   * [x] Observables
-  * [ ] Typisierung overwhere
+  * [ ] Typisierung und Zugriffsmodifikatoren vervollständigen
   * [ ] Change Detection
   * [ ] scss
   * [ ] tests
