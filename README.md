@@ -11,7 +11,7 @@
   * [x] Subcomponents
   * [x] Services
   * [x] Observables
-  * [ ] Typisierung und Zugriffsmodifikatoren vervollständigen
+  * [ ] missing Typisierung und Zugriffsmodifikatoren
   * [ ] Change Detection
   * [ ] scss
   * [ ] tests
@@ -22,3 +22,4 @@
   * [ ] Lazyloading
   * [ ] test with jest
   * [ ] some kind of Store
+  * [ ] using Dependencies Injection
