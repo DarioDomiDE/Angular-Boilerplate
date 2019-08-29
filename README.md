@@ -5,8 +5,13 @@
   * Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
   * Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). Before running the tests make sure you are serving the app via `ng serve`.
   
-  ## Features
+  ## Features / missing Features
   
+  * [x] Env
+  * [x] Subcomponents
+  * [x] Services
+  * [x] Observables
+  * [ ] Typisierung overwhere
   * [ ] Change Detection
   * [ ] scss
   * [ ] tests
